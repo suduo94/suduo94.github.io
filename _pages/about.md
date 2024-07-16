@@ -13,7 +13,20 @@ My research focuses on developing efficient deep learning algorithms within limi
 
 Publications
 ======
-* [D$^4$M: Dataset Distillation via Disentangled Diffusion Model](https://junjie31.github.io/D4M/)
+
+<!-- 2024 -->
+
+* [D<sup>4</sup>M: Dataset Distillation via Disentangled Diffusion Model](https://junjie31.github.io/D4M/) <br>
+Duo Su, Junjie Hou, Weizhi Gao, Yingjie Tian, Bowen Tang <br>
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, USA, 2024
+
+* [Adaptive Robust Loss for Landmark Detection](https://www.sciencedirect.com/science/article/pii/S1566253523003299) <br>
+Yingjie Tian, Duo Su, Shilin Li <br>
+Information Fusion, 2024
+
+* [Recent advances on loss functions in deep learning for computer vision](https://www.sciencedirect.com/science/article/abs/pii/S0925231222005239) <br>
+Yingjie Tian, Duo Su, Stanislao Lauria, Xiaohui Liu <br>
+Neurocomputing, 2022
 
 <!-- A data-driven personal website
 ======
