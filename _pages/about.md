@@ -7,26 +7,59 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), collaborated with Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/). Before that, I received my Ph. D. degree from the [School of Computer Science and Technology](https://scce.ucas.ac.cn/index.php/en/), [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) in July, 2024 supervised by Prof. [Yingjie Tian](https://people.ucas.edu.cn/~tianyingjie?language=en).
+I am a postdoctoral researcher in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), collaborated with Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/). Before that, I received my Ph. D. degree from the [School of Computer Science and Technology](https://scce.ucas.ac.cn/index.php/en/), [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) in July, 2024 advised by Prof. [Yingjie Tian](https://people.ucas.edu.cn/~tianyingjie?language=en).
 
-My research focuses on developing efficient deep learning algorithms within limited resources. My current interests fall in Data-Centric AI, AIGC and Visual Understanding.
+My research focuses on developing efficient deep learning algorithms under limited resources. My current interests include Data-Centric AI, AIGC and Visual Understanding.
+
+News
+======
+* 2024/06 I received my Ph. D. degree after four years of hard work.
+* 2024/02 One paper is accepted to CVPR 2024.
+
 
 Publications
 ======
 
-<!-- 2024 -->
+2024
+------
 
 * [D<sup>4</sup>M: Dataset Distillation via Disentangled Diffusion Model](https://junjie31.github.io/D4M/) <br>
-Duo Su, Junjie Hou, Weizhi Gao, Yingjie Tian, Bowen Tang <br>
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, USA, 2024
+**Duo Su**, Junjie Hou, Weizhi Gao, Yingjie Tian, Bowen Tang <br>
+IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, Seattle, USA, 2024
+
+* [Unified Image Harmonization with Region Augmented Attention Normalization](https://link.springer.com/article/10.1007/s40745-024-00531-6) <br>
+Junjie Hou, Yuqi Zhang, **Duo Su** <br>
+Annals of Data Science, 2022
+
 
 * [Adaptive Robust Loss for Landmark Detection](https://www.sciencedirect.com/science/article/pii/S1566253523003299) <br>
-Yingjie Tian, Duo Su, Shilin Li <br>
+Yingjie Tian, **Duo Su**, Shilin Li <br>
 Information Fusion, 2024
 
+2023
+------
+
+* [Linear-Exponential Loss Incorporated Deep Learning for Imbalanced Classification](https://www.sciencedirect.com/science/article/abs/pii/S0019057823002835) <br>
+Saiji Fu, **Duo Su**, Shilin Li, Shiding Sun, Yingjie Tian <br>
+ISA Transactions, 2023
+
+2022
+------
+
 * [Recent advances on loss functions in deep learning for computer vision](https://www.sciencedirect.com/science/article/abs/pii/S0925231222005239) <br>
-Yingjie Tian, Duo Su, Stanislao Lauria, Xiaohui Liu <br>
+Yingjie Tian, **Duo Su**, Stanislao Lauria, Xiaohui Liu <br>
 Neurocomputing, 2022
+
+Services
+======
+
+* 2023/12 I was invited to give a academic report on the 'ShuYunGuangZhi' Academic Innovation Forum at the Department of Mathematics in Science College, CAU.
+
+Honors and Awards
+======
+
+* Beijing Outstanding Graduate Award, 2020.06
+* Beijing Outstanding Graduate Award, 2017.06
 
 <!-- A data-driven personal website
 ======
