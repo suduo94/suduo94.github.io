@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), collaborated with Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/). Before that, I received my Ph. D. degree from the [School of Computer Science and Technology](https://scce.ucas.ac.cn/index.php/en/), [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) in July, 2024 advised by Prof. [Yingjie Tian](https://people.ucas.edu.cn/~tianyingjie?language=en).
+I am a postdoctoral researcher in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), collaborating with Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/). Before that, I obtained my Ph. D. degree from the [School of Computer Science and Technology](https://scce.ucas.ac.cn/index.php/en/), [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) in July, 2024 advised by Prof. [Yingjie Tian](https://people.ucas.edu.cn/~tianyingjie?language=en).
 
 My research focuses on developing efficient deep learning algorithms under limited resources. My current interests include Data-Centric AI, AIGC and Visual Understanding.
 
 News
 ======
-* 2024/06 I received my Ph. D. degree after four years of hard work.
+* 2024/06 I obtained my Ph. D. degree after four years of diligent work.
 * 2024/02 One paper was accepted to CVPR 2024.
 
 
@@ -53,7 +53,7 @@ Neurocomputing, 2022
 Services
 ======
 
-* 2023/12 I was invited to give a academic report on the 'ShuYunGuangZhi' Academic Innovation Forum at the Department of Mathematics in Science College, CAU.
+* 2023/12 I was invited to give an academic report on the 'ShuYunGuangZhi' Academic Innovation Forum at the Department of Mathematics in Science College, CAU.
 
 Honors and Awards
 ======
