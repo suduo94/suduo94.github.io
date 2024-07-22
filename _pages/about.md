@@ -14,7 +14,7 @@ My research focuses on developing efficient deep learning algorithms under limit
 News
 ======
 * 2024/06 I obtained my Ph. D. degree after four years of diligent work.
-* 2024/02 One paper was accepted to CVPR 2024.
+* 2024/02 One paper accepted in CVPR 2024.
 
 
 Publications
