@@ -13,6 +13,7 @@ My research focuses on developing efficient deep learning algorithms under limit
 
 News
 ======
+* 2024/08 We won the 3rd place in the 1st DD challenge @ ECCV 2024
 * 2024/06 I obtained my Ph. D. degree after four years of diligent work.
 * 2024/02 One paper accepted in CVPR 2024.
 
@@ -54,6 +55,11 @@ Services
 ======
 
 * 2023/12 I was invited to give an academic report on the 'ShuYunGuangZhi' Academic Innovation Forum at the Department of Mathematics in Science College, CAU.
+
+Competitions
+======
+* Our team (Guang Li, **Duo Su**, Junjie Hou, Ren Togo, Rui Song, Takahiro Ogawa, Miki Haseyama) won  <font color= #FF0000 >the third place</font> in  [The First Dataset Distillation Challenge](https://www.dd-challenge.com/#/) @ ECCV 2024
+
 
 Honors and Awards
 ======
