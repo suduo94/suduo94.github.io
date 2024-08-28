@@ -23,6 +23,9 @@ Publications
 
 2024
 ------
+* [Generative Dataset Distillation Based on Diffusion Model](https://junjie31.github.io/D4M/) <br>
+**Duo Su**, Junjie Hou, Guang Li, Ren Togo, Rui Song, Takahiro Ogawa, Miki Haseyama <br>
+European Conference on Computer Vision Workshop **(ECCV)**, Milano, Italy, 2024
 
 * [D<sup>4</sup>M: Dataset Distillation via Disentangled Diffusion Model](https://junjie31.github.io/D4M/) <br>
 **Duo Su**, Junjie Hou, Weizhi Gao, Yingjie Tian, Bowen Tang <br>
@@ -54,11 +57,19 @@ Neurocomputing, 2022
 Services
 ======
 
+Invited Speaker
+------
+
 * 2023/12 I was invited to give an academic report on the 'ShuYunGuangZhi' Academic Innovation Forum at the Department of Mathematics in Science College, CAU.
+
+Reviewer
+------
+Journal: TPAMI, TNNLS, TMLR, Neurocomputing <br>
+Conference: AAAI, IJCAI
 
 Competitions
 ======
-* Our team (Guang Li, **Duo Su**, Junjie Hou, Ren Togo, Rui Song, Takahiro Ogawa, Miki Haseyama) won  <font color= #FF0000 >the third place</font> in  [The First Dataset Distillation Challenge](https://www.dd-challenge.com/#/) @ ECCV 2024
+* Our team (Guang Li, **Duo Su**, Junjie Hou, Ren Togo, Rui Song, Takahiro Ogawa, Miki Haseyama) won  <span style="color: #FF0000;">the third place</span> in [The First Dataset Distillation Challenge](https://www.dd-challenge.com/#/) @ ECCV 2024 Workshop.
 
 
 Honors and Awards
