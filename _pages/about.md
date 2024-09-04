@@ -64,7 +64,7 @@ Invited Speaker
 
 Reviewer
 ------
-Journal: TPAMI, TNNLS, TMLR, Neurocomputing <br>
+Journal: TPAMI, TNNLS, TMLR, TCSVT, KBS, Neurocomputing <br>
 Conference: AAAI, IJCAI
 
 Competitions
