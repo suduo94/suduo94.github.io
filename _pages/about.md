@@ -13,6 +13,8 @@ My research focuses on developing efficient deep learning algorithms under limit
 
 News
 ======
+* 2025/06 I was supported by the 77th China Postdoctoral Science Foundation.
+* 2025/06 One paper accepted in ICCV 2025. Congratulations to Yawen!
 * 2024/08 We won the 3rd place in the 1st DD challenge @ ECCV 2024
 * 2024/06 I obtained my Ph. D. degree after four years of diligent work.
 * 2024/02 One paper accepted in CVPR 2024.
@@ -20,6 +22,12 @@ News
 
 Publications
 ======
+
+2025
+------
+* [Dataset Distillation via Vision-Language Category Prototype](https://anonymous.4open.science/r/10575/) <br>
+Yawen Zou, Guang Li, **Duo Su**, Zi Wang, Jun YU, Chao Zhang  <br>
+International Conference on Computer Vision **(ICCV)**, Hawaii, USA, 2025
 
 2024
 ------
@@ -34,7 +42,6 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, Seatt
 * [Unified Image Harmonization with Region Augmented Attention Normalization](https://link.springer.com/article/10.1007/s40745-024-00531-6) <br>
 Junjie Hou, Yuqi Zhang, **Duo Su** <br>
 Annals of Data Science, 2022
-
 
 * [Adaptive Robust Loss for Landmark Detection](https://www.sciencedirect.com/science/article/pii/S1566253523003299) <br>
 Yingjie Tian, **Duo Su**, Shilin Li <br>
