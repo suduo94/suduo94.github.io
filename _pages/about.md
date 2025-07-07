@@ -13,6 +13,7 @@ My research focuses on developing efficient deep learning algorithms under limit
 
 News
 ======
+* 2025/07 One paper accepted in ACM MM 2025. Congratulations to Yangyang!
 * 2025/06 I was supported by the 77th China Postdoctoral Science Foundation.
 * 2025/06 One paper accepted in ICCV 2025. Congratulations to Yawen!
 * 2024/08 We won the 3rd place in the 1st DD challenge @ ECCV 2024
@@ -25,13 +26,17 @@ Publications
 
 2025
 ------
-* [Dataset Distillation via Vision-Language Category Prototype](https://anonymous.4open.science/r/10575/) <br>
+* [Dataset Distillation via Vision-Language Category Prototype](https://github.com/zou-yawen/Dataset-Distillation-via-Vision-Language-Category-Prototype/) <br>
 Yawen Zou, Guang Li, **Duo Su**, Zi Wang, Jun YU, Chao Zhang  <br>
 International Conference on Computer Vision **(ICCV)**, Hawaii, USA, 2025
 
+* [Multi-Task Dense Prediction Fine-Tuning with Mixture of Fine-Grained Experts](https://openreview.net/forum?id=nyq4WNerSH#discussion) <br>
+Yangyang Xu, Xi Ye, **Duo Su**  <br>
+ACM Multimedia 2025 **(ACM MM)**, Dublin, Ireland, 2025
+
 2024
 ------
-* [Generative Dataset Distillation Based on Diffusion Model](https://junjie31.github.io/D4M/) <br>
+* [Generative Dataset Distillation Based on Diffusion Model](https://github.com/Guang000/Generative-Dataset-Distillation-Based-on-Diffusion-Model) <br>
 **Duo Su**, Junjie Hou, Guang Li, Ren Togo, Rui Song, Takahiro Ogawa, Miki Haseyama <br>
 European Conference on Computer Vision Workshop **(ECCV)**, Milano, Italy, 2024
 
