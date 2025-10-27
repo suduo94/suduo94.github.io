@@ -9,10 +9,12 @@ redirect_from:
 
 I am a postdoctoral researcher in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), collaborating with Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/). Before that, I obtained my Ph. D. degree from the [School of Computer Science and Technology](https://scce.ucas.ac.cn/index.php/en/), [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) in July, 2024 advised by Prof. [Yingjie Tian](https://people.ucas.edu.cn/~tianyingjie?language=en).
 
-My research focuses on developing efficient deep learning algorithms under limited resources. My current interests include Data-Centric AI, AIGC and Visual Understanding.
+My research focuses on developing efficient deep learning algorithms under limited resources. My current interests include Data-Centric AI, AIGC, Visual Understanding and LLM Pre-training.
 
 News
 ======
+* 2025/10 One paper accepted in TMLR. Congratulations to Huyu!
+* 2025/09 One paper accepted in TVCG. Congratulations to Minghao!
 * 2025/07 One paper accepted in ACM MM 2025. Congratulations to Yangyang!
 * 2025/06 I was supported by the 77th China Postdoctoral Science Foundation.
 * 2025/06 One paper accepted in ICCV 2025. Congratulations to Yawen!
@@ -26,6 +28,14 @@ Publications
 
 2025
 ------
+* [Dataset Condensation with Color Compensation](https://528why.github.io/DC3-Page/) <br>
+Huyu Wu, **Duo Su***, Junjie Hou, Guang Li*  <br>
+Transactions on Machine Learning Research **(TMLR)**, 2025
+
+* [SketchRefiner: Text-Guided Sketch Refinement Through Latent Diffusion Models](https://ieeexplore.ieee.org/abstract/document/11176130) <br>
+Yingjie Tian, Minghao Liu, Haoran Jiang, Yunbin Tu, **Duo Su**  <br>
+IEEE Transactions on Visualization and Computer Graphics **(TVCG)**, 2025
+
 * [Dataset Distillation via Vision-Language Category Prototype](https://github.com/zou-yawen/Dataset-Distillation-via-Vision-Language-Category-Prototype/) <br>
 Yawen Zou, Guang Li, **Duo Su**, Zi Wang, Jun YU, Chao Zhang  <br>
 International Conference on Computer Vision **(ICCV)**, Hawaii, USA, 2025
@@ -38,7 +48,7 @@ ACM Multimedia 2025 **(ACM MM)**, Dublin, Ireland, 2025
 ------
 * [Generative Dataset Distillation Based on Diffusion Model](https://github.com/Guang000/Generative-Dataset-Distillation-Based-on-Diffusion-Model) <br>
 **Duo Su**, Junjie Hou, Guang Li, Ren Togo, Rui Song, Takahiro Ogawa, Miki Haseyama <br>
-European Conference on Computer Vision Workshop **(ECCV)**, Milano, Italy, 2024
+European Conference on Computer Vision Workshop **(ECCVW)**, Milano, Italy, 2024
 
 * [D<sup>4</sup>M: Dataset Distillation via Disentangled Diffusion Model](https://junjie31.github.io/D4M/) <br>
 **Duo Su**, Junjie Hou, Weizhi Gao, Yingjie Tian, Bowen Tang <br>
@@ -76,8 +86,8 @@ Invited Speaker
 
 Reviewer
 ------
-Journal: TPAMI, TNNLS, TMLR, TCSVT, KBS, Neurocomputing <br>
-Conference: AAAI, IJCAI
+Journal: TPAMI, TNNLS, TMM, TMLR, TCSVT, KBS, Neurocomputing <br>
+Conference: AAAI, IJCAI, ICLR
 
 Competitions
 ======
