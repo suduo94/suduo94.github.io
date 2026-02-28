@@ -13,7 +13,7 @@ My research focuses on developing efficient deep learning algorithms under limit
 
 News
 ======
-* 2026/10 One paper accepted in ICLR 2026.
+* 2026/01 One paper accepted in ICLR 2026.
 * 2025/10 One paper accepted in TMLR. Congratulations to Huyu!
 * 2025/09 One paper accepted in TVCG. Congratulations to Minghao!
 * 2025/07 One paper accepted in ACM MM 2025. Congratulations to Yangyang!
@@ -30,8 +30,8 @@ Publications
 2026
 ------
 * [Diffusion Models as Dataset Distillation Priors](https://arxiv.org/abs/2510.17421) <br>
-**Duo Su**, Huyu Wu, Huanran Chen, Yiming Shi, Yuzhu Wang, Xi Ye, Jun Zhu*  <br>
-The Fourteenth International Conference on Learning Representations **(ICLR)**, Rio de Janeiro, Brazil, 2026
+**Duo Su**, Huyu Wu, Huanran Chen, Yiming Shi, Yuzhu Wang, Xi Ye, Jun Zhu  <br>
+International Conference on Learning Representations **(ICLR)**, Rio de Janeiro, Brazil, 2026
 
 2025
 ------
